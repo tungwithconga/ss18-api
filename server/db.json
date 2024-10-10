@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "student_name": "Tung",
+      "email": "thanhtung@100705",
+      "address": "10/106",
+      "phone": "0923147712",
+      "status": true,
+      "created_at": "10/10/2024"
+    },
+    {
+      "id": 2,
+      "student_name": "Minh",
+      "email": "minhnguyen@100706",
+      "address": "20/207",
+      "phone": "0935248712",
+      "status": false,
+      "created_at": "09/10/2024"
+    },
+    {
+      "id": 3,
+      "student_name": "Anh",
+      "email": "anhvu@100707",
+      "address": "30/308",
+      "phone": "0946349712",
+      "status": true,
+      "created_at": "08/10/2024"
+    },
+    {
+      "id": 4,
+      "student_name": "Lan",
+      "email": "lantran@100708",
+      "address": "40/409",
+      "phone": "0957440712",
+      "status": false,
+      "created_at": "07/10/2024"
+    }
+  ]
+}
